@@ -5,6 +5,7 @@ Ensure you have the following installed/available:
 * [Docker](https://www.docker.com/products/docker-desktop/)
 * [Java 17](https://openjdk.org/projects/jdk/17/)
 * [Gradle](https://gradle.org/install/)
+  * If using intellij, ensure Gradle JVM matches java version
 
 ### Running
 * Start docker
